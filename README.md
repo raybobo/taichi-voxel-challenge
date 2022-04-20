@@ -1,25 +1,19 @@
 # Taichi Voxel Challenge
 
+Submission by boliu ([@boliu](https://github.com/raybobo))
+
+![](./view1.jpg)
+
 ## Installation
 
 Assume you have a Python 3 environment properly, you can simply run:
 
 ```sh
 pip3 install -r requirements.txt
+python3 main.py
 ```
 
-to install the dependendies of the voxel renderer.
-
-Please fill in your code in `main.py` and include your result in this README.md file.
-
-## Demo
-![](./demo.jpg)
-
-## Quickstart
-
-```sh
-python3 example1.py  # example2/3/4.py
-```
+to install the dependendies of the voxel renderer and run it.
 
 Mouse and keyboard interface:
 
@@ -27,3 +21,6 @@ Mouse and keyboard interface:
 + Press `W/A/S/D/Q/E` to move camera.
 + Press `P` to save screenshot.
 
+## Results
+![](./view2.jpg)
+![](./view3.jpg)
